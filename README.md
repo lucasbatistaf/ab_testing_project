@@ -15,9 +15,9 @@ The dataset includes the fields:
 - target
 
 ## 1. Problem Statement
-- Goal of the Experiment: test if the mobile page has the same User Convertion Rate as the Desktop page 
+- Goal of the Experiment: test if the Mobile page has the same User Convertion Rate as the Desktop page 
 - Defining the Success Metric: User Conversion Rate per Day
-- Period of the experiment: for the period of the experiment I'm using 2 weeks of the data, as suggested by the source video, selecting dates between 01-01-2019 and 14-01-2019.
+- Period of the experiment: for the period of the experiment I'm using 2 weeks of the data, as suggested by the source video, selecting dates between 01-03-2019 and 14-03-2019.
 
 ## 2. Hypothesis Testing
 - Hypoteses
